@@ -1,2 +1,1 @@
 # PalindromeCheckerApplication
-# PalindromeCheckerApplication
