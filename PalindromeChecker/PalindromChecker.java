@@ -18,7 +18,7 @@ package com.seveneleven.palindromecheckerapp.main;
  * @author Developer
  * @version 1.0
  */
-public class UseCaseOnePalindromeCheckerApp {
+public class PalindromeCheckerApp {
 	public static void main(String args[]) {
 		System.out.println("Welcome to Palindrome Checker Management System");
 		System.out.println("Version : 1.0");
